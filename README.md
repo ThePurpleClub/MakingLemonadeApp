@@ -1,7 +1,5 @@
 # MakingLemonadeApp
 
-Simple overview of use/purpose.
-
 ## Description
 
 This is a simple, interactive app that lets you juice lemons when you tap the image on screen until you have a glass of lemonade. This is an app for toddlers to play and pass their time.
@@ -15,7 +13,7 @@ API 33 ("Tiramisu") Android 13.0
 
 ### Executing program
 
-This program is run on a Samsung phone simulator. ![Alt Screenshot of the program](https://github.com/ThePurpleClub/MakingLemonadeApp/blob/main/Screenshot_20240127_051453.png)
+This program is run on a Samsung phone simulator. ![Alt Screenshot of the program](https://github.com/ThePurpleClub/MakingLemonadeApp/blob/main/Screenshot_20240127_051453.png | width=100)
 
 
 ## Authors
