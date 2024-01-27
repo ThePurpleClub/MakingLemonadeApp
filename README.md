@@ -15,7 +15,7 @@ API 33 ("Tiramisu") Android 13.0
 
 ### Executing program
 
-This program is run on a Samsung phone simulator.
+This program is run on a Samsung phone simulator. ![Alt Screenshot of the program](https://github.com/ThePurpleClub/MakingLemonadeApp/blob/main/Screenshot_20240127_051453.png)
 
 
 ## Authors
