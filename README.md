@@ -14,7 +14,7 @@ API 33 ("Tiramisu") Android 13.0
 ### Executing program
 
 This program is run on a Samsung phone simulator.
-<img src="https://your-image-url.type" width="100">
+<img src="https://your-image-url.type" width="100" height="350">
 
 
 ## Authors
